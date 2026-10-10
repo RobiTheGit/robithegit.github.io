@@ -2,7 +2,7 @@
 
 # RobiWanKenobi's Projects
 
-Sonic 1 Level Creator
+[Sonic 1 Level Creator](https://shc.zone/entries/contest2026/1436)
 
 * A ROM Hack of Sonic 1 that allows you to create your own levels.
 
